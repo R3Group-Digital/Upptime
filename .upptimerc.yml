@@ -2,20 +2,19 @@ owner: R3Group-Digital # Your GitHub organization or username, where this reposi
 repo: upptime # The name of this repository
 
 sites:
-  - name: Portal
+  - name: R3 Portal
     url: https://portal.r3-group.app
     maxResponseTime: 1000
-  - name: Tembo Tool App
-    url: https://app.tembo-tool.io/
-  - name: Tembo Tool Site
-    url: https://tembo-tool.io/
-  - name: SSO
+  - name: R3 Access Management (SSO)
     url: https://sso.r3-group.app/
-  - name: Design System
+  - name: R3 Design System
     url: https://design.r3-group.app/
-  - name: Diag
+  - name: R3 Pilot RSE (Tembo Tool) 
+    url: https://app.tembo-tool.io/
+  - name: Diag RSE
     url: https://diag-rse.r3-group.app/
-
+  - name: R3 Pilot Carbon
+    url: https://r3-carbone.climatip.fr
 
 assignees:
   - adrienwb
@@ -31,8 +30,8 @@ status-website:
   theme: light
   logoUrl: https://portal.r3-group.app/bloc_marque.png
   faviconSvg: https://portal.r3-group.app/logo.svg
-  introTitle: "**R3 Status** est une page open-source de monitoring de la plate-forme digital de R3."
-  introMessage: Cette page affiche de la donnée en temps réel depuis notre repository Upptime sur [GitHub repository](https://github.com/R3Group-Digital/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**R3 Status** est une page open-source de monitoring de la plate-forme digitale de R3."
+  introMessage: Cette page affiche de la donnée en temps réel depuis notre repository Upptime sur [GitHub repository](https://github.com/R3Group-Digital/upptime).
   navbar:
     - title: Status
       href: /
@@ -40,4 +39,4 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 i18n:
-  footer: Made with ❤️ by [R3 Status]($REPO), 🔌 by [Upptime.](https://github.com/upptime/upptime)
+  footer: Made with ❤️ by [R3 Group]($REPO), 🔌 by [Upptime.](https://github.com/upptime/upptime)
