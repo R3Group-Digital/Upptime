@@ -20,14 +20,18 @@ sites:
 assignees:
   - adrienwb
   - Kiwwwi
+  - Khazeral
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: status.r3-group.app
-  baseUrl: /upptime
+  cname: status.r3-group.app
+  #baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: R3 Status
+  theme: light
+  logoUrl: https://portal.r3-group.app/bloc_marque.png
+  faviconSvg: https://portal.r3-group.app/logo.svg
   introTitle: "**R3 Status** est une page open-source de monitoring de la plate-forme digital de R3."
   introMessage: Cette page affiche de la donnée en temps réel depuis notre repository Upptime sur [GitHub repository](https://github.com/R3Group-Digital/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
