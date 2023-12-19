@@ -27,7 +27,6 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.r3-group.app
   #baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: R3 Status
   theme: light
   logoUrl: https://portal.r3-group.app/bloc_marque.png
