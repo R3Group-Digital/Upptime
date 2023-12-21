@@ -9,12 +9,14 @@ sites:
     url: https://sso.r3-group.app/
   - name: R3 Design System
     url: https://design.r3-group.app/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: R3 Pilot RSE (Tembo Tool) 
     url: https://app.tembo-tool.io/
   - name: Diag RSE
     url: https://diag-rse.r3-group.app/
-  - name: R3 Pilot Carbon
-    url: https://r3-carbone.climatip.fr
 
 assignees:
   - adrienwb
