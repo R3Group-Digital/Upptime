@@ -22,20 +22,18 @@
     "url": "https://sso.r3-group.app/",
     "icon": "https://icons.duckduckgo.com/ip3/sso.r3-group.app.ico",
     "slug": "r3-access-management-sso",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 700,
-    "timeDay": 820,
-    "timeWeek": 700,
-    "timeMonth": 700,
-    "timeYear": 700,
-    "dailyMinutesDown": {
-      "2024-01-08": 0
-    }
+    "time": 702,
+    "timeDay": 788,
+    "timeWeek": 707,
+    "timeMonth": 702,
+    "timeYear": 702,
+    "dailyMinutesDown": {}
   },
   {
     "name": "R3 Design System",
