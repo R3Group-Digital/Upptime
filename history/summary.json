@@ -76,9 +76,9 @@
     "url": "https://diag-rse.r3-group.app/",
     "icon": "https://icons.duckduckgo.com/ip3/diag-rse.r3-group.app.ico",
     "slug": "diag-rse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +87,8 @@
     "timeWeek": 592,
     "timeMonth": 621,
     "timeYear": 621,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-10": 0
+    }
   }
 ]
