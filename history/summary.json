@@ -4,10 +4,10 @@
     "url": "https://portal.r3-group.app",
     "icon": "https://icons.duckduckgo.com/ip3/portal.r3-group.app.ico",
     "slug": "r3-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 687,
@@ -15,7 +15,9 @@
     "timeWeek": 591,
     "timeMonth": 687,
     "timeYear": 687,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-11": 1
+    }
   },
   {
     "name": "R3 Access Management (SSO)",
@@ -76,9 +78,9 @@
     "url": "https://diag-rse.r3-group.app/",
     "icon": "https://icons.duckduckgo.com/ip3/diag-rse.r3-group.app.ico",
     "slug": "diag-rse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +89,8 @@
     "timeWeek": 530,
     "timeMonth": 610,
     "timeYear": 610,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-11": 0
+    }
   }
 ]
