@@ -4,19 +4,19 @@
     "url": "https://portal.r3-group.app",
     "icon": "https://icons.duckduckgo.com/ip3/portal.r3-group.app.ico",
     "slug": "r3-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 687,
-    "timeDay": 494,
-    "timeWeek": 591,
-    "timeMonth": 687,
-    "timeYear": 687,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 690,
+    "timeDay": 631,
+    "timeWeek": 613,
+    "timeMonth": 690,
+    "timeYear": 690,
     "dailyMinutesDown": {
-      "2024-01-11": 1
+      "2024-01-11": 11
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://diag-rse.r3-group.app/",
     "icon": "https://icons.duckduckgo.com/ip3/diag-rse.r3-group.app.ico",
     "slug": "diag-rse",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 610,
-    "timeDay": 470,
-    "timeWeek": 530,
-    "timeMonth": 610,
-    "timeYear": 610,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 620,
+    "timeDay": 607,
+    "timeWeek": 569,
+    "timeMonth": 620,
+    "timeYear": 620,
     "dailyMinutesDown": {
-      "2024-01-11": 0
+      "2024-01-11": 11
     }
   }
 ]
