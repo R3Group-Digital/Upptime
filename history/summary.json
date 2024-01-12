@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.r3-group.app.ico",
     "slug": "r3-portal",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 690,
-    "timeDay": 631,
-    "timeWeek": 613,
-    "timeMonth": 690,
-    "timeYear": 690,
-    "dailyMinutesDown": {
-      "2024-01-11": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 688,
+    "timeDay": 698,
+    "timeWeek": 617,
+    "timeMonth": 688,
+    "timeYear": 688,
+    "dailyMinutesDown": {}
   },
   {
     "name": "R3 Access Management (SSO)",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 679,
-    "timeDay": 471,
-    "timeWeek": 618,
-    "timeMonth": 679,
-    "timeYear": 679,
+    "time": 673,
+    "timeDay": 528,
+    "timeWeek": 615,
+    "timeMonth": 673,
+    "timeYear": 673,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 610,
-    "timeDay": 505,
-    "timeWeek": 535,
-    "timeMonth": 610,
-    "timeYear": 610,
+    "time": 606,
+    "timeDay": 504,
+    "timeWeek": 536,
+    "timeMonth": 606,
+    "timeYear": 606,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 426,
-    "timeDay": 265,
-    "timeWeek": 411,
-    "timeMonth": 426,
-    "timeYear": 426,
+    "time": 425,
+    "timeDay": 399,
+    "timeWeek": 403,
+    "timeMonth": 425,
+    "timeYear": 425,
     "dailyMinutesDown": {}
   },
   {
@@ -79,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/diag-rse.r3-group.app.ico",
     "slug": "diag-rse",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 620,
-    "timeDay": 607,
-    "timeWeek": 569,
-    "timeMonth": 620,
-    "timeYear": 620,
-    "dailyMinutesDown": {
-      "2024-01-11": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 614,
+    "timeDay": 669,
+    "timeWeek": 555,
+    "timeMonth": 614,
+    "timeYear": 614,
+    "dailyMinutesDown": {}
   }
 ]
