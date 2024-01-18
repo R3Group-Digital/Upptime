@@ -40,10 +40,10 @@
     "url": "https://design.r3-group.app/",
     "icon": "https://icons.duckduckgo.com/ip3/design.r3-group.app.ico",
     "slug": "r3-design-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 622,
@@ -51,7 +51,9 @@
     "timeWeek": 665,
     "timeMonth": 622,
     "timeYear": 622,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-18": 1
+    }
   },
   {
     "name": "R3 Pilot RSE (Tembo Tool)",
@@ -76,9 +78,9 @@
     "url": "https://diag-rse.r3-group.app/",
     "icon": "https://icons.duckduckgo.com/ip3/diag-rse.r3-group.app.ico",
     "slug": "diag-rse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +89,8 @@
     "timeWeek": 695,
     "timeMonth": 630,
     "timeYear": 630,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-18": 0
+    }
   }
 ]
