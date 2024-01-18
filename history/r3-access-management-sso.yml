@@ -1,7 +1,7 @@
 url: https://sso.r3-group.app/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-18T08:55:26.356Z
+status: up
+code: 200
+responseTime: 815
+lastUpdated: 2024-01-18T09:03:48.196Z
 startTime: 2023-12-19T10:34:19.210Z
 generator: Upptime <https://github.com/upptime/upptime>
