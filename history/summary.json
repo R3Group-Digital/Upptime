@@ -76,9 +76,9 @@
     "url": "https://r3-carbone.climatip.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/r3-carbone.climatip.fr.ico",
     "slug": "r3-pilot-carbone-climatip",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 470,
     "timeMonth": 470,
     "timeYear": 470,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-28": 0
+    }
   },
   {
     "name": "Diag RSE",
