@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 689,
-    "timeDay": 755,
-    "timeWeek": 606,
+    "time": 695,
+    "timeDay": 945,
+    "timeWeek": 607,
     "timeMonth": 693,
-    "timeYear": 689,
+    "timeYear": 695,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 668,
-    "timeDay": 609,
-    "timeWeek": 590,
-    "timeMonth": 673,
-    "timeYear": 668,
+    "time": 674,
+    "timeDay": 946,
+    "timeWeek": 597,
+    "timeMonth": 675,
+    "timeYear": 674,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 621,
-    "timeDay": 618,
-    "timeWeek": 579,
-    "timeMonth": 620,
-    "timeYear": 621,
+    "time": 626,
+    "timeDay": 846,
+    "timeWeek": 568,
+    "timeMonth": 626,
+    "timeYear": 626,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 408,
-    "timeDay": 428,
-    "timeWeek": 376,
-    "timeMonth": 398,
-    "timeYear": 408,
+    "time": 411,
+    "timeDay": 546,
+    "timeWeek": 380,
+    "timeMonth": 399,
+    "timeYear": 411,
     "dailyMinutesDown": {}
   },
   {
@@ -77,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/r3-carbone.climatip.fr.ico",
     "slug": "r3-pilot-carbone-climatip",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 545,
-    "timeDay": 707,
-    "timeWeek": 545,
-    "timeMonth": 545,
-    "timeYear": 545,
-    "dailyMinutesDown": {
-      "2024-01-29": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 575,
+    "timeDay": 757,
+    "timeWeek": 575,
+    "timeMonth": 575,
+    "timeYear": 575,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Diag RSE",
@@ -102,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 616,
-    "timeDay": 554,
-    "timeWeek": 570,
+    "time": 621,
+    "timeDay": 861,
+    "timeWeek": 571,
     "timeMonth": 616,
-    "timeYear": 616,
+    "timeYear": 621,
     "dailyMinutesDown": {}
   }
 ]
