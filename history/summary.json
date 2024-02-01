@@ -76,19 +76,19 @@
     "url": "https://r3-carbone.climatip.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/r3-carbone.climatip.fr.ico",
     "slug": "r3-pilot-carbone-climatip",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 559,
-    "timeDay": 627,
-    "timeWeek": 559,
-    "timeMonth": 559,
-    "timeYear": 559,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 583,
+    "timeDay": 727,
+    "timeWeek": 583,
+    "timeMonth": 583,
+    "timeYear": 583,
     "dailyMinutesDown": {
-      "2024-02-01": 0
+      "2024-02-01": 14
     }
   },
   {
