@@ -42,5 +42,9 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+workflowSchedule:
+  #uptime: "*/5 * * * *"
+  uptime: "0 0 * * *"
+
 i18n:
   footer: Made with ❤️ by [R3 Group]($REPO), 🔌 by [Upptime.](https://github.com/upptime/upptime)
